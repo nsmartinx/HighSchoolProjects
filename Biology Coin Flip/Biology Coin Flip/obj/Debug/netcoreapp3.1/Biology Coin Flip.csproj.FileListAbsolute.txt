@@ -1,0 +1,13 @@
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\bin\Debug\netcoreapp3.1\Biology Coin Flip.exe
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\bin\Debug\netcoreapp3.1\Biology Coin Flip.deps.json
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\bin\Debug\netcoreapp3.1\Biology Coin Flip.runtimeconfig.json
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\bin\Debug\netcoreapp3.1\Biology Coin Flip.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\bin\Debug\netcoreapp3.1\Biology Coin Flip.dll
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\bin\Debug\netcoreapp3.1\Biology Coin Flip.pdb
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.csprojAssemblyReference.cache
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.dll
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.pdb
+C:\Users\nsmar\source\repos\Biology Coin Flip\Biology Coin Flip\obj\Debug\netcoreapp3.1\Biology Coin Flip.genruntimeconfig.cache

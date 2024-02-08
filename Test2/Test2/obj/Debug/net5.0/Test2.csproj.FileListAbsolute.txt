@@ -1,0 +1,15 @@
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\Test2.exe
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\Test2.deps.json
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\Test2.runtimeconfig.json
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\Test2.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\Test2.dll
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\ref\Test2.dll
+C:\Users\nsmar\source\repos\Test2\Test2\bin\Debug\net5.0\Test2.pdb
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.dll
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\ref\Test2.dll
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.pdb
+C:\Users\nsmar\source\repos\Test2\Test2\obj\Debug\net5.0\Test2.genruntimeconfig.cache

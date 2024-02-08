@@ -1,0 +1,8 @@
+﻿  S2 2019.cpp
+C:\Users\nsmar\source\repos\S2 2019\S2 2019\S2 2019.cpp(21,31): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\nsmar\source\repos\S2 2019\S2 2019\S2 2019.cpp(49,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  S2 2019.vcxproj -> C:\Users\nsmar\source\repos\S2 2019\x64\Debug\S2 2019.exe

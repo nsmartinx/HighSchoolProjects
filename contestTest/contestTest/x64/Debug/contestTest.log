@@ -1,0 +1,4 @@
+﻿  contestTest.cpp
+C:\Users\nsmar\source\repos\contestTest\contestTest\contestTest.cpp(8,10): error C2039: 'Cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\iostream(19): message : see declaration of 'std'
+C:\Users\nsmar\source\repos\contestTest\contestTest\contestTest.cpp(8,15): error C2065: 'Cout': undeclared identifier

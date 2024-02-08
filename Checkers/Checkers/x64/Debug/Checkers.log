@@ -1,0 +1,3 @@
+﻿  Checkers.cpp
+C:\Users\nsmar\source\repos\Checkers\Checkers\Checkers.cpp(69,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Checkers.vcxproj -> C:\Users\nsmar\source\repos\Checkers\x64\Debug\Checkers.exe

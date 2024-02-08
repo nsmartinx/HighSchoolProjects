@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de914722-de5f-472d-90ae-ea96cc627341": {
+      "ProjectGuid": "de914722-de5f-472d-90ae-ea96cc627341",
+      "DisplayName": "Checkers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

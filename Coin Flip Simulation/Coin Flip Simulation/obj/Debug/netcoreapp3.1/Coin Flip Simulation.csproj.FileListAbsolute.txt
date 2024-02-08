@@ -1,0 +1,13 @@
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\bin\Debug\netcoreapp3.1\Coin Flip Simulation.exe
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\bin\Debug\netcoreapp3.1\Coin Flip Simulation.deps.json
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\bin\Debug\netcoreapp3.1\Coin Flip Simulation.runtimeconfig.json
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\bin\Debug\netcoreapp3.1\Coin Flip Simulation.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\bin\Debug\netcoreapp3.1\Coin Flip Simulation.dll
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\bin\Debug\netcoreapp3.1\Coin Flip Simulation.pdb
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.csprojAssemblyReference.cache
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.dll
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.pdb
+C:\Users\nsmar\source\repos\Coin Flip Simulation\Coin Flip Simulation\obj\Debug\netcoreapp3.1\Coin Flip Simulation.genruntimeconfig.cache

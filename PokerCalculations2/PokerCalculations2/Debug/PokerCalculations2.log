@@ -1,0 +1,18 @@
+﻿  PokerCalculations2.cpp
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(301,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(309,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(312,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(324,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(330,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(392,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(400,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(403,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(415,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(421,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(442,69): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\nsmar\source\repos\PokerCalculations2\PokerCalculations2\PokerCalculations2.cpp(462,26): warning C4018: '<': signed/unsigned mismatch
+  PokerCalculations2.vcxproj -> C:\Users\nsmar\source\repos\PokerCalculations2\Debug\PokerCalculations2.exe

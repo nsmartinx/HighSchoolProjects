@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4555957-5338-4c85-b41c-c0dcc01ef043": {
+      "ProjectGuid": "a4555957-5338-4c85-b41c-c0dcc01ef043",
+      "DisplayName": "CheckersBot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

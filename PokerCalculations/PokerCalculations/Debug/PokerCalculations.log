@@ -1,0 +1,7 @@
+﻿  PokerCalculations.cpp
+C:\Users\nsmar\source\repos\PokerCalculations\PokerCalculations\PokerCalculations.cpp(432,69): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  PokerCalculations.vcxproj -> C:\Users\nsmar\source\repos\PokerCalculations\Debug\PokerCalculations.exe
